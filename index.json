@@ -1,7 +1,55 @@
 {
-    "About": ["this is my abt pge"],
-    "Contact": ["this is my contact pg"],
-    "Projects": ["this is my project pg"],
-    "Testimonials": ["this is my testimonials pg"],
-    "Home": ["this is my home pg"]
+    "Home": [{"title1": "I'm Ammara Hoosen.","title2": "Aspiring Web Developer","url":"https://drive.google.com/uc?id=1dQyzRFtgeUXEe05J_coO3tgGByx9VbP"}],
+    "About": [{"title": "About Me","url":"https://drive.google.com/uc?id=1dQyzRFtgeUXEe05J_coO3tgGByx9VbP","info":"My name is Ammara and I'm 19 years old.I pride myself on my ability to take initiative and always being eager to learn new things.One of my greatest strengths lies in my ability to work both independently and as part of a team. From a young age I have always loved art and technology, which is why I chose web development."}],
+    "Contact": [{"name": "Ammara Hoosen","email": "hoosenammara@gmail.com","phone": "074 524 8576"},{"url":""},{"instagram": "","linkedin": "https://www.linkedin.com/in/","github": "https://github.com/"}],
+    "Projects":[{
+            "name": "Project 1",
+            "description": ".",
+            "netlify": "https://project1-netlify-link.netlify.app",
+            "github": "https://github.com/username/project1",
+            "url":""
+          },
+          {
+            "name": "Project 2",
+            "description": ".",
+            "netlify": "https://project2-netlify-link.netlify.app",
+            "github": "https://github.com/username/project2",
+            "url":""
+          },
+          {
+            "name": "Project 3",
+            "description": ".",
+            "netlify": "https://project3-netlify-link.netlify.app",
+            "github": "https://github.com/username/project3",
+            "url":""
+          },
+          {
+            "name": "Project 4",
+            "description": ".",
+            "netlify": "https://project4-netlify-link.netlify.app",
+            "github": "https://github.com/username/project4",
+            "url":""
+          },
+          {
+            "name": "Project 5",
+            "description": ".",
+            "netlify": "https://project5-netlify-link.netlify.app",
+            "github": "https://github.com/username/project5",
+            "url":""
+          },
+          {
+            "name": "Project 6",
+            "description": ".",
+            "netlify": "https://project6-netlify-link.netlify.app",
+            "github": "https://github.com/username/project6",
+            "url":""
+          }
+        ],
+      
+    "Testimonials": [{"name":"Haanim Pietersen","message":"Ammara Hoosen is a kind, hardworking and intelligent student and friend. She is a good team player and is good at helping anyone when they have a problem. She also has a kind heart and treats everyone the same with respect and love. I woud recommend her if you are looking for someone that works well with designing websites and helping it gain loads of attention from all crowds.","url":"https://drive.google.com/uc?id=1jKfzgs2tWCGPH3seQ8tS2UN6UY0C-Rw2"},
+     {"name":"Chrishano Burns","message":"Ammara is honestly a great person to have besides when it comes to coding. Her passion and desire to work hard and get things done inspire everyone around us. A skillful woman with such an intelligent mind has boosted everyone with happiness and her quick learning has helped a lot of us.","url":"https://drive.google.com/uc?id=1jKfzgs2tWCGPH3seQ8tS2UN6UY0C-Rw2"},
+     {"name":"Eighton-Lee Paulse","message":"Ammara is not only a genuinely kind person but also an exceptionally dedicated and hardworking individual. Her clear sense of purpose in life is truly inspiring, and her work ethic is second to none. I wholeheartedly recommend her as a developer.","url":"https://drive.google.com/uc?id=1jKfzgs2tWCGPH3seQ8tS2UN6UY0C-Rw2"},
+     {"name":"Kelsey Chloe Oosthuizen","message":"Ammara Hoosen is a great person with an amazing personality. She's kind, grounded and diligent. I would highly recommend her","url":"https://drive.google.com/uc?id=1jKfzgs2tWCGPH3seQ8tS2UN6UY0C-Rw2"},
+     {"name":"Heather Mtuedwa","message":"Ammara Hoosen is great team player who works well with others around her.  Ammara is someone who is always looking for to enhance her skills and go the extra mile to learn different things, she is always dedicated to completing every task she gets on time and making sure she does it to the best of her abilities. Ammara is a great positive person to have around to motive you and to help you to keep moving forward, i would recommend Ammara as she is a great asset to a team and will always help where she can.","url":"https://drive.google.com/uc?id=1jKfzgs2tWCGPH3seQ8tS2UN6UY0C-Rw2"},
+     {"name":"Matthew Dean Brown","message":"Ammara is hardworking and always strives for excellence in her field of expertise. She is confident and works well in a team.","url":"https://drive.google.com/uc?id=1jKfzgs2tWCGPH3seQ8tS2UN6UY0C-Rw2"}]
 }
