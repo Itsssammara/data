@@ -1,7 +1,6 @@
 {
     "Home": [{"title1": "I'm Ammara Hoosen.","title2": "Aspiring Web Developer","url":"https://cdn-thumbs.imagevenue.com/cc/d7/6a/ME17GC7I_t.jpg"}],
     "About": [{"title": "About Me","url":"https://cdn-thumbs.imagevenue.com/cc/d7/6a/ME17GC7I_t.jpg","info":"My name is Ammara and I'm 19 years old.I pride myself on my ability to take initiative and always being eager to learn new things.One of my greatest strengths lies in my ability to work both independently and as part of a team. From a young age I have always loved art and technology, which is why I chose web development."}],
-    "Contact": [{"name": "Ammara Hoosen","email": "hoosenammara@gmail.com","phone": "074 524 8576"},{"map":""},{"instagram": "","linkedin": "https://www.linkedin.com/in/","github": "https://github.com/"}],
     "Projects":[{
             "name": "Calculator",
             "description": "Developed a user-friendly web-based calculator application utilizing HTML, CSS, and JavaScript to perform basic arithmetic operations with a clean and intuitive user interface for enhanced user experience.",
