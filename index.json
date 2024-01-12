@@ -17,12 +17,14 @@
     {
       "schoolname": "Alexander Sinton High School",
       "year": "2022",
-      "description": "Graduated in matric with a bachelor's pass."
+      "description": "Graduated in matric with a bachelor's pass.",
+      "url":"https://i.ibb.co/1JDCXkc/image-360.png"
     },
     {
       "schoolname": "Life Choices Academy",
       "year": "Present",
-      "description": "Currently a student studying web development."
+      "description": "Currently a student studying web development.",
+      "url":"https://i.ibb.co/yVdWFy1/image-720.png"
     }
   ],
   "Skills": [
