@@ -11,6 +11,12 @@
       "year": "2023-2024",
       "description": "Completed a 6 month coding bootcamp.",
       "url":"https://i.ibb.co/yVdWFy1/image-720.png"
+    },
+    {
+      "schoolname": "Life Choices Academy",
+      "year": "Present",
+      "description": "LC Studio Intern - Work Experience",
+      "url":"https://i.ibb.co/yVdWFy1/image-720.png"
     }
   ],
   
@@ -23,25 +29,25 @@
       "url": "https://i.ibb.co/X29gBbJ/image-720.png"
     },
     {
+      "name": "E-commerce Website",
+      "description": "My final e-commerce website, Modest Elegance",
+      "netlify": "https://mycapstone-bfb98.web.app/",
+      "github": "https://github.com/Itsssammara/MYCAPSTONE.git",
+      "url": "https://i.ibb.co/Db5xF8k/modestelegance.png"
+    },
+    {
+      "name": "Netflix Clone",
+      "description": ".",
+      "netlify": "https://glowing-pika-819aef.netlify.app",
+      "github": "https://github.com/Itsssammara/Netflixclone.git",
+      "url": "https://i.ibb.co/MPJJBWN/netflix-clone.png"
+    },
+    {
       "name": "To-do List",
       "description": "Created a dynamic and user-friendly to-do list application, allowing users to efficiently manage tasks with features such as task addition, deletion, and completion tracking.",
       "netlify": "https://spontaneous-blini-44d3d6.netlify.app",
       "github": "https://github.com/Itsssammara/Todo.git",
       "url": "https://i.ibb.co/qBHBHw3/image-720.png"
-    },
-    {
-      "name": "Temperature Converter",
-      "description": "This showcases my foundational skills in web development, demonstrating the ability to create a functional and user-friendly tool for converting temperatures between different units.",
-      "netlify": "https://effervescent-torrone-cd86ac.netlify.app",
-      "github": "https://github.com/Itsssammara/Temperatureconverter.git",
-      "url": "https://i.ibb.co/dKFhtYC/image-720.png"
-    },
-    {
-      "name": "E-commerce Website",
-      "description": "text here",
-      "netlify": "https://mycapstone-bfb98.web.app/",
-      "github": "https://github.com/Itsssammara/MYCAPSTONE.git",
-      "url": "https://i.ibb.co/897BgrS/image-360.png"
     },
     {
       "name": "Area of Triangle Calculator",
