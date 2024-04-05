@@ -23,28 +23,28 @@
   "Projects": [
     {
       "name": "Calculator",
-      "description": "Developed a user-friendly web-based calculator application utilizing HTML, CSS, and JavaScript to perform basic arithmetic operations with a clean and intuitive user interface for enhanced user experience.",
+      "description": "Developed my first web-based calculator app utilizing HTML, CSS, and JavaScript.",
       "netlify": "https://zippy-kashata-95c343.netlify.app",
       "github": "https://github.com/Itsssammara/JSCalculator.git",
       "url": "https://i.ibb.co/X29gBbJ/image-720.png"
     },
     {
       "name": "E-commerce Website",
-      "description": "My final e-commerce website, Modest Elegance",
+      "description": "Created a full-stack e-commerce website using both front-end and back-end systems.",
       "netlify": "https://mycapstone-bfb98.web.app/",
       "github": "https://github.com/Itsssammara/MYCAPSTONE.git",
       "url": "https://i.ibb.co/dLJrfzW/capstoneimg.png"
     },
     {
       "name": "Netflix Clone",
-      "description": ".",
+      "description": "BuilT a simplified version of the Netflix streaming platform.",
       "netlify": "https://glowing-pika-819aef.netlify.app",
       "github": "https://github.com/Itsssammara/Netflixclone.git",
       "url": "https://i.ibb.co/NpwbB7n/netflix.png"
     },
     {
       "name": "To-do List",
-      "description": "Created a dynamic and user-friendly to-do list application, allowing users to efficiently manage tasks with features such as task addition, deletion, and completion tracking.",
+      "description": "Users can easily handle tasks by adding, deleting, and tracking completion.",
       "netlify": "https://spontaneous-blini-44d3d6.netlify.app",
       "github": "https://github.com/Itsssammara/Todo.git",
       "url": "https://i.ibb.co/tZMnn16/TDPIC.png"
@@ -58,7 +58,7 @@
     },
     {
       "name": "Age to Days Calculator",
-      "description": "A calculator that transforms your age into days.",
+      "description": "Discover the number of days you've been alive with this innovative age-to-days calculator.",
       "netlify": "https://curious-peony-12cb50.netlify.app",
       "github": "https://github.com/Itsssammara/agetodays.git",
       "url": "https://i.ibb.co/XCFgX6z/image-480.png"
