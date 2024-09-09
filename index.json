@@ -22,11 +22,11 @@
   
   "Projects": [
     {
-      "name": "Calculator",
-      "description": "Developed my first web-based calculator app utilizing HTML, CSS, and JavaScript.",
-      "netlify": "https://zippy-kashata-95c343.netlify.app",
-      "github": "https://github.com/Itsssammara/JSCalculator.git",
-      "url": "https://i.ibb.co/X29gBbJ/image-720.png"
+      "name": "Calculator-React.js",
+      "description": "Developed my first web-based calculator app using React js.",
+      "netlify": "https://myfirstreactjscalculator.netlify.app",
+      "github": "https://github.com/Itsssammara/first_react_app.git",
+      "url": "https://i.ibb.co/CMdKp4j/Screenshot-2024-09-09-093315.png"
     },
     {
       "name": "E-commerce Website",
