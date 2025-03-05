@@ -22,47 +22,23 @@
   
   "Projects": [
     {
-      "name": "Calculator-React.js",
+      "name": "Baked by A",
       "description": "Developed my first web-based calculator app using React js.",
-      "netlify": "https://myfirstreactjscalculator.netlify.app",
-      "github": "https://github.com/Itsssammara/first_react_app.git",
+      "netlify": "https://baked-by-a.vercel.app/",
       "url": "https://i.ibb.co/CMdKp4j/Screenshot-2024-09-09-093315.png"
     },
     {
       "name": "E-commerce Website",
       "description": "Created a full-stack e-commerce website using both front-end and back-end systems.",
       "netlify": "https://mycapstone-bfb98.web.app/",
-      "github": "https://github.com/Itsssammara/MYCAPSTONE.git",
       "url": "https://i.ibb.co/dLJrfzW/capstoneimg.png"
     },
     {
       "name": "Netflix Clone",
       "description": "Built a simplified version of the Netflix streaming platform.",
       "netlify": "https://glowing-pika-819aef.netlify.app",
-      "github": "https://github.com/Itsssammara/Netflixclone.git",
       "url": "https://i.ibb.co/NpwbB7n/netflix.png"
     },
-    {
-      "name": "To-do List",
-      "description": "Users can easily handle tasks by adding, deleting, and tracking completion.",
-      "netlify": "https://spontaneous-blini-44d3d6.netlify.app",
-      "github": "https://github.com/Itsssammara/Todo.git",
-      "url": "https://i.ibb.co/tZMnn16/TDPIC.png"
-    },
-    {
-      "name": "Area of Triangle Calculator",
-      "description": "Calculates the area of a triangle, showcasing my skill level in JavaScript, HTML, and CSS.",
-      "netlify": "https://extraordinary-longma-ded0ea.netlify.app",
-      "github": "https://github.com/Itsssammara/Areaof-triangle.git5",
-      "url": "https://i.ibb.co/Xx65hqj/image-480.png"
-    },
-    {
-      "name": "Age to Days Calculator",
-      "description": "Discover the number of days you've been alive with this innovative age-to-days calculator.",
-      "netlify": "https://curious-peony-12cb50.netlify.app",
-      "github": "https://github.com/Itsssammara/agetodays.git",
-      "url": "https://i.ibb.co/XCFgX6z/image-480.png"
-    }
   ],
   "Testimonials": [
     {
