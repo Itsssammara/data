@@ -17,7 +17,7 @@
       "year": "2018-2022",
       "description": "High school attended. Matriculated with a bachelor's pass.",
       "url":"https://i.ibb.co/1JDCXkc/image-360.png"
-    },
+    }
   ],
   
   "Projects": [
@@ -38,7 +38,7 @@
       "description": "Built a simplified version of the Netflix streaming platform.",
       "netlify": "https://glowing-pika-819aef.netlify.app",
       "url": "https://i.ibb.co/NpwbB7n/netflix.png"
-    },
+    }
   ],
   "Testimonials": [
     {
