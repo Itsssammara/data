@@ -6,7 +6,7 @@
       "description": "UX Design Intern. Gaining hands-on experience in UX Design by working on real-world projects, conducting user research, creating wireframes etc.",
       "url":"https://i.ibb.co/nsxSBkdh/shecando-logo.png"
     },
-    {
+     {
       "schoolname": "Life Choices Academy",
       "year": "2023-2024",
       "description": "A comprehensive 12-month full-stack web development program, including work-integrated training focusing on both technical skills and soft skills development.",
@@ -23,21 +23,21 @@
   "Projects": [
     {
       "name": "Baked by A",
-      "description": "Developed my first web-based calculator app using React js.",
+      "description": "",
       "netlify": "https://baked-by-a.vercel.app/",
-      "url": "https://i.ibb.co/CMdKp4j/Screenshot-2024-09-09-093315.png"
+      "url": "https://i.ibb.co/ZpPQxHZZ/Screenshot-2025-03-05-182716.png"
     },
     {
-      "name": "E-commerce Website",
-      "description": "Created a full-stack e-commerce website using both front-end and back-end systems.",
-      "netlify": "https://mycapstone-bfb98.web.app/",
-      "url": "https://i.ibb.co/dLJrfzW/capstoneimg.png"
+      "name": "The Olive Cafe",
+      "description": "",
+      "netlify": "",
+      "url": ""
     },
     {
-      "name": "Netflix Clone",
-      "description": "Built a simplified version of the Netflix streaming platform.",
-      "netlify": "https://glowing-pika-819aef.netlify.app",
-      "url": "https://i.ibb.co/NpwbB7n/netflix.png"
+      "name": "Retire Smart",
+      "description": "",
+      "netlify": "",
+      "url": ""
     }
   ],
   "Testimonials": [
